@@ -1,0 +1,24 @@
+.main {
+  width: 40%;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.belowButton {
+  display: flex;
+  width: 22%;
+  justify-content: space-between;
+}
+.bottomBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 90%;
+  background-color: rgba(95, 94, 94, 0.082);
+  padding: 4% 2%;
+  overflow-y: auto;
+}

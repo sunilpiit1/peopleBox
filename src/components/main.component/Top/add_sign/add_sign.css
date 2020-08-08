@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.add_outerbox {
+  height: 26px;
+  width: 26px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.vertical {
+  position: relative;
+  left: -45%;
+  height: 80%;
+  width: 2px;
+  background-color: rgba(12, 102, 187, 0.781);
+  border-radius: 1px;
+}
+
+.horizontal {
+  width: 80%;
+  height: 2px;
+  background-color: rgba(12, 102, 187, 0.781);
+  border-radius: 1px;
+}

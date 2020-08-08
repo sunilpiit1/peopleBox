@@ -1,0 +1,43 @@
+.heading {
+  width: 100%;
+  height: 18%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 8px;
+  font-family: amatic sc;
+  padding-top: 8px;
+  cursor: pointer;
+}
+
+.heading:hover {
+  background-color: rgba(0, 0, 0, 0.096);
+}
+.mainHeading {
+  padding-left: 4px;
+  height: 80%;
+  width: 100%;
+  font-family: amatic sc;
+  font-size: 26px;
+  letter-spacing: 0.1mm;
+  word-spacing: 2px;
+}
+
+.date {
+  color: rgba(24, 24, 24, 0.747);
+  display: flex;
+  justify-content: flex-end;
+  font-size: 15px;
+  padding-right: 10px;
+  padding-top: 6px;
+}
+
+.line {
+  display: flex;
+  height: 1%;
+  width: 100%;
+  background-color: rgba(105, 105, 105, 0.795);
+}
+
+hr {
+  margin: 0;
+}

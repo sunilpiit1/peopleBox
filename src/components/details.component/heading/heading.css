@@ -1,0 +1,14 @@
+.h_heading {
+  height: 12%;
+  width: 100%;
+  background-color: rgba(94, 93, 93, 0.178);
+  color: rgba(0, 0, 0, 0.829);
+  font-family: overlock sc;
+  font-family: Sacramento;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}

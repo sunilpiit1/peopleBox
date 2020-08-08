@@ -1,0 +1,13 @@
+.notes1 {
+  height: 80%;
+  width: 100%;
+  padding: 40px 20px;
+  /*font-family: Yanone Kaffeesatz;*/
+  font-family: Sacramento;
+  color: black;
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 1px;
+  line-height: 30px;
+  word-spacing: 2px;
+}

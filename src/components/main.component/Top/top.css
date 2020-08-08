@@ -1,0 +1,9 @@
+.topBox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  height: 9%;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.233);
+}
