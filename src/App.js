@@ -36,7 +36,7 @@ function App() {
   const openDocHandler = (event) => {
     let temp = event.target.innerText;
     let item = all.filter((item) => {
-      return item.name.trim() == temp;
+      return item.name.trim() === temp;
     });
     setDefault_heading(item[0].name);
     setDefault_para(item[0].notes);
